@@ -16,4 +16,4 @@ Para rodar esse App, voce vai precisar ter o ambiente do React Native configurad
 ## Rode localmente
 ```npm run start```
 
-![Example GIF](https://j.gifs.com/Y79ZXM.gif)
+![Demo](https://j.gifs.com/Y79ZXM.gif)
