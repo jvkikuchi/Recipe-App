@@ -17,3 +17,7 @@ Para rodar esse App, voce vai precisar ter o ambiente do React Native configurad
 ```npm run start```
 
 ![Demo](https://j.gifs.com/Y79ZXM.gif)
+
+# Video
+
+https://drive.google.com/file/d/1LsWtK6IEfckeihAWWEUSz_rYBtwzzIb-/view
